@@ -14,6 +14,6 @@ public class q21 {
         pdt = pdt * a[i][j];
       }
     }
-    System.out.print("Product = : " + pdt);
+    System.out.print("Product = " + pdt);
   }
 }
